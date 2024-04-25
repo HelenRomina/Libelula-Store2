@@ -5,3 +5,9 @@ Libélula, meaning dragonfly in Spanish, symbolizes transformation and adaptabil
 
 Immerse yourself in a shopping experience that transcends the ordinary, where each visit promises new inspirations and delightful surprises. <\p>
 
+## 🚀 About Me
+I'm Helen Romina. I love to design and create website. 
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romina-cruz-/)
